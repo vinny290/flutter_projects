@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611460569844",
+    "project_id": "meroio",
+    "storage_bucket": "meroio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611460569844:android:63c444637d3950aab09ca1",
+        "android_client_info": {
+          "package_name": "com.example.meroio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4Zkvz4cRh0hJeChyo1k8Kn5hxX4X0A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "publishableKey": "your_publishable_key",
+  "merchantId": "your_merchant_id",
+  "androidPayMode": "test",
+  "stripeAccountId": "your_stripe_account_id"
+}
